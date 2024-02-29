@@ -52,16 +52,16 @@ Gives a brief analysis of what the shellcode does
 ### All
 Decompiles the file
 
-[IDA](https://hex-rays.com/ida-free/)
+1. [IDA](https://hex-rays.com/ida-free/)
 
-[Ghidra](https://github.com/NationalSecurityAgency/ghidra/releases)
+2. [Ghidra](https://github.com/NationalSecurityAgency/ghidra/releases)
 
-[Cutter](https://github.com/rizinorg/cutter)
+3. [Cutter](https://github.com/rizinorg/cutter)
 
 ### Android
-[GDA](https://github.com/charles2gan/GDA-android-reversing-Tool)
-[Jadx](https://github.com/skylot/jadx)
-[APK Lab](https://github.com/APKLab/APKLab)
+1. [GDA](https://github.com/charles2gan/GDA-android-reversing-Tool)
+2. [Jadx](https://github.com/skylot/jadx)
+3. [APK Lab](https://github.com/APKLab/APKLab)
 
 ### Brief Analysis
 [capa](https://github.com/mandiant/capa)
