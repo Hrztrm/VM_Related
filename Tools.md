@@ -19,8 +19,8 @@ https://github.com/olafhartong/sysmon-modular
 
 ## Better Task Manager (Both same thing)
 Able to look at running processes more in-depth. And also dump contents in memory if needed
-[Process Hacker](https://processhacker.sourceforge.io)
-[System Informer](https://systeminformer.sourceforge.io)
+1. [Process Hacker](https://processhacker.sourceforge.io)
+2. [System Informer](https://systeminformer.sourceforge.io)
 
 ## Better Event Log Configuration
 Better logs = Better visibility
@@ -36,26 +36,23 @@ https://www.python.org/downloads/
 
 ## PE
 Tools related for PE analysis and gives insight to the files.
-[DetectItEasy](https://github.com/horsicq/Detect-It-Easy)
-[Pe-Bear](https://github.com/hasherezade/pe-bear)
-DL-Inspect
-[PEStudio](https://www.winitor.com/download)
-[PE Detective](https://ntcore.com/?page_id=367)
+1. [DetectItEasy](https://github.com/horsicq/Detect-It-Easy)
+2. [Pe-Bear](https://github.com/hasherezade/pe-bear)
+3. DL-Inspect
+4. [PEStudio](https://www.winitor.com/download)
+5. [PE Detective](https://ntcore.com/?page_id=367)
 
 ## Shellcode
 Gives a brief analysis of what the shellcode does
-[scdbg](http://sandsprite.com/blogs/index.php?uid=7&pid=152)
-[Sharem](http://sandsprite.com/blogs/index.php?uid=7&pid=152)
-[Speakeasy](https://github.com/mandiant/speakeasy)
+1. [scdbg](http://sandsprite.com/blogs/index.php?uid=7&pid=152)
+2. [Sharem](http://sandsprite.com/blogs/index.php?uid=7&pid=152)
+3. [Speakeasy](https://github.com/mandiant/speakeasy)
 
 ## Analysis
 ### All
 Decompiles the file
-
 1. [IDA](https://hex-rays.com/ida-free/)
-
 2. [Ghidra](https://github.com/NationalSecurityAgency/ghidra/releases)
-
 3. [Cutter](https://github.com/rizinorg/cutter)
 
 ### Android
@@ -64,43 +61,46 @@ Decompiles the file
 3. [APK Lab](https://github.com/APKLab/APKLab)
 
 ### Brief Analysis
-[capa](https://github.com/mandiant/capa)
+1. [capa](https://github.com/mandiant/capa)
 
 ### C\#
-[dnSpy](https://github.com/dnSpyEx/dnSpy)
-[ILSpy](https://github.com/icsharpcode/ILSpy)
+1. [dnSpy](https://github.com/dnSpyEx/dnSpy)
+2. [ILSpy](https://github.com/icsharpcode/ILSpy)
 
 ### Debugger
-[x64dbg](https://x64dbg.com)
-Windbg
+1. [x64dbg](https://x64dbg.com)
+2. Windbg
 
 ### Deobfuscation
 #### String
-[floss](https://github.com/mandiant/flare-floss)
+1. [floss](https://github.com/mandiant/flare-floss)
 
 #### C\#
-[De4dot](https://github.com/0xd4d/de4dot)
+1. [De4dot](https://github.com/0xd4d/de4dot)
 
 ### Malicious Document
-[Oletools](https://github.com/decalage2/oletools/wiki/Install)
+1. [Oletools](https://github.com/decalage2/oletools/wiki/Install)
 
 #### Powershell
-[PowerDecode](https://github.com/Malandrone/PowerDecode)
+1. [PowerDecode](https://github.com/Malandrone/PowerDecode)
 
 #### Python
-[De4Py](https://github.com/Fadi002/de4py)
+1. [De4Py](https://github.com/Fadi002/de4py)
 
 ### Python
 #### EXE -> PYC
-[Pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor)
-[Standalone Binary Version](https://github.com/pyinstxtractor/pyinstxtractor-ng)
+1. [Pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor)
+2. [Standalone Binary Version](https://github.com/pyinstxtractor/pyinstxtractor-ng)
+   
 #### PYC -> PY
-[PYCDC](https://github.com/zrax/pycdc)
-[Uncompyle6](https://github.com/rocky/python-uncompyle6/)
+1. [PYCDC](https://github.com/zrax/pycdc)
+2. [Uncompyle6](https://github.com/rocky/python-uncompyle6/)
+   
 #### PYC -> Byte Code
-[pyc2bytecode](https://github.com/knight0x07/pyc2bytecode)
+1. [pyc2bytecode](https://github.com/knight0x07/pyc2bytecode)
+   
 #### All in one
-[EXE2PY](https://github.com/LookiMan/EXE2PY-Decompiler)
+1. [EXE2PY](https://github.com/LookiMan/EXE2PY-Decompiler)
 
 ## Unpacker
-[UPX](https://upx.github.io)
+1. [UPX](https://upx.github.io)
