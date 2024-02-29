@@ -51,8 +51,11 @@ Gives a brief analysis of what the shellcode does
 ## Analysis
 ### All
 Decompiles the file
+
 [IDA](https://hex-rays.com/ida-free/)
+
 [Ghidra](https://github.com/NationalSecurityAgency/ghidra/releases)
+
 [Cutter](https://github.com/rizinorg/cutter)
 
 ### Android
