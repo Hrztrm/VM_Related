@@ -7,10 +7,12 @@ https://github.com/mandiant/flare-vm
 ## Sysinternals Suite
 Do extract and add to the path enviroment variables to the extracted sysinternals. Easier to use
 Mutiple tools to help with dynamic and static malware analysis, such as TCPView and DLLlist
+
 https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite
 
 ## Sysmon
 Useful for dynamic malware analysis. Used to logs actions done in the computer, **IF USED WITH GOOD CONFIGS**
+
 https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon
 
 ### Configs
@@ -24,6 +26,7 @@ Able to look at running processes more in-depth. And also dump contents in memor
 
 ## Better Event Log Configuration
 Better logs = Better visibility
+
 https://github.com/Yamato-Security/EnableWindowsLogSettings/blob/main/YamatoSecurityConfigureWinEventLogs.bat
 
 ## Install Git
